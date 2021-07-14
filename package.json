@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/taibuharoub/node-clusters/issues"
   },
-  "homepage": "https://github.com/taibuharoub/node-clusters#readme"
+  "homepage": "https://github.com/taibuharoub/node-clusters#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
