@@ -1,0 +1,21 @@
+{
+  "name": "node-clusters",
+  "version": "1.0.0",
+  "description": "Node JS Cluster with PM2, RabbitMQ, Redis and Nginx",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taibuharoub/node-clusters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taibuharoub/node-clusters/issues"
+  },
+  "homepage": "https://github.com/taibuharoub/node-clusters#readme"
+}
