@@ -20,6 +20,9 @@
   "homepage": "https://github.com/taibuharoub/node-clusters#readme",
   "dependencies": {
     "amqplib": "^0.8.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "pug": "^3.0.2",
+    "redis": "^3.1.2"
   }
 }
