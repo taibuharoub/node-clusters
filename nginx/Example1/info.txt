@@ -1,1 +1,2 @@
-will config nginx as a reseve proxy
+will config nginx as a reseve proxy with a express cluster
+with local redis 
