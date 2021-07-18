@@ -1,0 +1,4 @@
+we use redis as publiser and subscriber
+Our architecture is the same as the one with RabbitMQ but instead
+of using RabbitMQ as a message store we will use redis as a 
+message store
