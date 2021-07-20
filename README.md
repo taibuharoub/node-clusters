@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Node JS Clusters with PM2, RabbitMQ, Redis and Nginx
+> Node JS Cluster with PM2, RabbitMQ, Redis and Nginx
 
 ### 🏠 [Homepage](https://github.com/taibuharoub/node-clusters#readme)
 
